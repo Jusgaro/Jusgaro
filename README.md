@@ -30,7 +30,7 @@ I’m currently exploring:
 
 ## TryHackMe Profile
 
-[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Jusgaro420.png" alt="Your Image Badge" />
-)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jusgaro420.png" alt="Your Image Badge" />
+
 
 Feel free to check out my TryHackMe profile to see my progress and learnings. 🚀
