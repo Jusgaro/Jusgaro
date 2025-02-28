@@ -21,6 +21,19 @@ I’m currently exploring:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
+## Kali Linux Tools I'm Using
+
+- **Nmap** - Network exploration and security auditing.
+  - ![Nmap](https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_logo.svg)
+- **Burp Suite** - Web vulnerability scanner.
+  - ![Burp Suite](https://upload.wikimedia.org/wikipedia/commons/c/c1/Burp_Suite_Logo.svg)
+- **Metasploit** - Exploit development and vulnerability testing.
+  - ![Metasploit](https://upload.wikimedia.org/wikipedia/commons/2/28/Metasploit_Logo.svg)
+- **Hydra** - Fast network logon cracker.
+  - ![Hydra](https://upload.wikimedia.org/wikipedia/commons/d/da/Owl_hydra_logo.png)
+- **Wireshark** - Network protocol analyzer.
+  - ![Wireshark](https://upload.wikimedia.org/wikipedia/commons/0/0d/Wireshark_logo_2020.svg)
+
 ## 🛠️ Tools I'm Learning
 
 - **Kali Linux**
