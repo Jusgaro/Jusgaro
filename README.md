@@ -23,16 +23,11 @@ I’m currently exploring:
 
 ## Kali Linux Tools I'm Using
 
-- **Nmap** - Network exploration and security auditing.  
-  ![Nmap](https://upload.wikimedia.org/wikipedia/commons/2/24/Nmap_logo.svg)
-- **Burp Suite** - Web vulnerability scanner.  
-  ![Burp Suite](https://upload.wikimedia.org/wikipedia/commons/1/1f/Burp_Suite_Logo_2019.svg)
-- **Metasploit** - Exploit development and vulnerability testing.  
-  ![Metasploit](https://upload.wikimedia.org/wikipedia/commons/2/24/Metasploit_Logo.svg)
-- **Hydra** - Fast network logon cracker.  
-  ![Hydra](https://upload.wikimedia.org/wikipedia/commons/d/d3/Owl_hydra_logo.png)
-- **Wireshark** - Network protocol analyzer.  
-  ![Wireshark](https://upload.wikimedia.org/wikipedia/commons/d/d3/Wireshark_logo_2020.svg)
+- **Nmap** - Network exploration and security auditing
+- **Burp Suite** - Web vulnerability scanner
+- **Metasploit** - Exploit development and vulnerability testing
+- **Hydra** - Fast network logon cracker
+- **Wireshark** - Network protocol analyzer
 
 ## 🛠️ Tools I'm Learning
 
@@ -43,6 +38,8 @@ I’m currently exploring:
 
 ## TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TVOJE_MENO.png)](https://tryhackme.com/p/TVOJE_MENO)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jusgaro420.png" alt="Your Image Badge" />
+
+
 
 Feel free to check out my TryHackMe profile to see my progress and learnings. 🚀
