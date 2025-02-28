@@ -38,6 +38,7 @@ I’m currently exploring:
 
 ## TryHackMe Profile 🎓
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jusgaro420.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2750762" style='border:none;'></iframe>
+
 
 Feel free to check out my TryHackMe profile to see my progress and learnings. 🚀
